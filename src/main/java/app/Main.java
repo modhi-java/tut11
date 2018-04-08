@@ -50,7 +50,7 @@ public class Main {
     public static double getgsmh(){
         Scanner input = new Scanner(System.in);
 
-        System.out.println("ادخل الرقم الثالث:");
+        System.out.println("ادخل الرقم الأول:");
         double num1 = input.nextDouble();
 
         System.out.println("ادخل الرقم الثاني:");
