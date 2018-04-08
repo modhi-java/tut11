@@ -36,9 +36,26 @@ public class Saba {
 //        System.out.println(x>=y);
 
         // هل أكس أصغر من أو يساوي واي
-        int x = 10;
-        int y = 20;
-        System.out.println(x<=y);
+//        int x = 10;
+//        int y = 20;
+//        System.out.println(x<=y);
+
+    // قاعدة&& للمقارنة بين قيمتين صح صح = صح ,, صح خطأ = خطأ ,, خطأ خطأ = خطأ
+// ترجح الخطأ
+//       boolean abc = true;
+//       boolean abc1 = false;
+//        System.out.println(abc&&abc1);
+
+        // قاعدة&& للمقارنة بين قيمتين صح صح = صح ,, صح خطأ = صح ,, خطأ خطأ = خطأ
+       // ترجح الصواب
+//        boolean abc = true;
+//        boolean abc1 = false;
+//        System.out.println(abc||abc1);
+
+      //   علامة التعجب تعكس أي عملية في مقارنات الترو والفولس
+        boolean abc = true;
+        boolean abc1 = false;
+        System.out.println(!(abc&&abc1));
 
     }
 
