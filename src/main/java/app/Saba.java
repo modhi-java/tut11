@@ -57,6 +57,40 @@ public class Saba {
 //        boolean abc1 = false;
 //        System.out.println(!(abc&&abc1));
 
+<<<<<<< HEAD
+=======
+        // التجربة الأولى
+//        int A = 10;
+//        int B = 20;
+//       int C = A + B
+//        System.out.println(C = A + B);
+
+
+        //جمع
+//        int a = 12;
+//        int b = 20;
+//        System.out.println(a+=b);
+
+        //طرح
+//        int a = 12;
+//        int b = 20;
+//        System.out.println(a-=b);
+
+//        //ضرب
+//        int a = 12;
+//        int b = 20;
+//        System.out.println(a*=b);
+
+//        //قسمة
+//        int a = 20;
+//        int b = 4;
+//        System.out.println(a/=b);
+
+        // النسبة المئوية, يعطي نتيجة الa
+        int a = 5;
+        int b = 2300;
+        System.out.println(a%=b);
+>>>>>>> github/master
 
     }
 
