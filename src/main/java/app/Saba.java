@@ -53,9 +53,10 @@ public class Saba {
 //        System.out.println(abc||abc1);
 
       //   علامة التعجب تعكس أي عملية في مقارنات الترو والفولس
-        boolean abc = true;
-        boolean abc1 = false;
-        System.out.println(!(abc&&abc1));
+//        boolean abc = true;
+//        boolean abc1 = false;
+//        System.out.println(!(abc&&abc1));
+
 
     }
 
