@@ -3,10 +3,9 @@ package app;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class Tut13_3 {
+public class Tut13_5 {
     //تعميم الكائن فى رأس الكلاس لتمكين الدوال الأخري من استدعائه
     private static Scanner scanner;
-
     //حجز ثلاث مواقع بالذكرة لتخزين المتغيرات المستخدمه فى العمليات الحسابية
     /***
      * ستلاحظ ان التعريف يمكن ان يأخذ صورة اخري :
@@ -176,4 +175,5 @@ public class Tut13_3 {
         }
         return option;
     }
+
 }
